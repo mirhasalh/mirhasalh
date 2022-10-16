@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirhasalh
-- 👀 I’m interested to Girls
+- 👀 I’m interested to Girl
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate
 - 📫 Reach me anytime
