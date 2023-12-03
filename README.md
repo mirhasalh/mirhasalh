@@ -2,7 +2,7 @@
 - 👀 I’m interested to Girl
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate
-- 📫 Reach my email irhas@senja.co.uk
+- 📫 Reach my email irhas@projectweekend.pw
 
 ![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/overview.svg#gh-light-mode-only)
