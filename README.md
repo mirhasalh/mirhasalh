@@ -9,6 +9,15 @@
 ![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+<img src="https://github.com/mirhasalh.png" align="left" width="200"/>
+
+### `Irhas' dev`
+
+**Self-taught** software engineer who working with multinational companies, startups, and everything in between.
+
+<a href="https://irhas.lol/">Website</a> ·
+<a href="https://irhas.lol/posts">Blog</a>
+
 <!---
 mirhasalh/mirhasalh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
