@@ -15,8 +15,8 @@
 
 **Self-taught** software engineer who working with multinational companies, startups, and everything in between.
 
-<a href="https://irhas.lol/">Website</a> ·
-<a href="https://irhas.lol/posts">Blog</a>
+<a href="https://irhas.site/">Website</a> ·
+<a href="https://irhas.site/posts">Blog</a>
 
 <!---
 mirhasalh/mirhasalh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
