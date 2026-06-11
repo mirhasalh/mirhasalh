@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirhasalh
-- 👀 I’m interested to Girl
+- 👀 I’m interested to woman
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate
 - 📫 Reach my email irhasm@outlook.com
