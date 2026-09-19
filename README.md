@@ -4,14 +4,15 @@
 - 💞️ I’m looking to collaborate
 - 📫 Reach my email irhasm@outlook.com
 
-![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mirhasalh/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/mirhasalh/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/mirhasalh/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/mirhasalh/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/mirhasalh/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 <img src="https://github.com/mirhasalh.png" align="left" width="200"/>
 
-### `Irhas' dev`
+### `Irhas’ dev`
 
 **Self-taught** software engineer who working with multinational companies, startups, and everything in between.
 
